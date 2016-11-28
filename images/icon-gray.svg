@@ -1,38 +1,79 @@
-<svg width="80" height="80" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <title>Layer 1</title>
-  <g id="svg_21">
-   <g id="svg_1">
-    <g id="svg_2">
-     <path id="svg_3" d="m5.74876,74.25125l2.30025,-15.62133l50.00444,-50.00444c1.80289,-1.80478 4.94712,-1.80478 6.7519,0l6.56729,6.56917c0.90239,0.90239 1.39973,2.10055 1.39973,3.37595s-0.49734,2.47357 -1.39973,3.37596l-50.00256,50.00444l-15.62133,2.30025zm5.84575,-13.83917l-1.37902,9.37243l9.37242,-1.37903l49.12277,-49.12465c0.19027,-0.19027 0.29578,-0.44272 0.29578,-0.71211s-0.10551,-0.52184 -0.29578,-0.71023l-6.56918,-6.56917c-0.38055,-0.38055 -1.04367,-0.38055 -1.42234,0l-49.12466,49.12277z" fill="#999999"/>
-    </g>
-    <g id="svg_4">
-     <rect id="svg_5" height="2" width="8.001" fill="#999999" transform="matrix(1.3321079066585402,1.3321079066585402,-1.3321079066585402,1.3321079066585402,50.40888414819996,-45.14761563740794) " y="50.90202" x="24.05244"/>
-    </g>
-    <g id="svg_6">
-     <rect id="svg_7" height="2" width="8" fill="#999999" transform="matrix(1.3321079066585402,1.3321079066585402,-1.3321079066585402,1.3321079066585402,33.62688663256576,-85.6630248459912) " y="29.39602" x="45.55844"/>
-    </g>
-   </g>
-   <g id="svg_8">
-    <g id="svg_9">
-     <polygon id="svg_10" points="59.31565856933594,76.632497549057 40.470977783203125,57.78969740867615 43.136695861816406,55.12585997581482 59.31565856933594,71.30481505393982 71.30481719970703,59.315656423568726 54.8206672668457,42.831498861312866 57.484500885009766,40.167665243148804 76.63249969482422,59.315656423568726 " fill="#999999"/>
-    </g>
-    <g id="svg_11">
-     <polygon id="svg_12" points="22.624759674072266,39.941598653793335 3.367504119873047,20.68433928489685 20.684341430664062,3.367504119873047 39.82480239868164,22.50607466697693 37.16095733642578,25.169910192489624 20.684341430664062,8.695180654525757 8.695181846618652,20.68433928489685 25.28860092163086,37.27776503562927 " fill="#999999"/>
-    </g>
-    <g id="svg_13">
-     <rect id="svg_14" height="4" width="2" fill="#999999" transform="matrix(1.3321079066585402,1.3321079066585402,-1.3321079066585402,1.3321079066585402,19.647571810660747,-62.89492511934368) " y="25.48102" x="30.26044"/>
-    </g>
-    <g id="svg_15">
-     <rect id="svg_16" height="4" width="2" fill="#999999" transform="matrix(1.3321079066585402,1.3321079066585402,-1.3321079066585402,1.3321079066585402,27.640219250612,-66.20531970791725) " y="29.72402" x="34.50244"/>
-    </g>
-    <g id="svg_17">
-     <rect id="svg_18" height="4" width="2" fill="#999999" transform="matrix(1.3321079066585402,1.3321079066585402,-1.3321079066585402,1.3321079066585402,51.61872674140618,-76.13744542520547) " y="42.45202" x="47.23044"/>
-    </g>
-    <g id="svg_19">
-     <rect id="svg_20" height="4" width="2" fill="#999999" transform="matrix(1.3321079066585402,1.3321079066585402,-1.3321079066585402,1.3321079066585402,59.61118579104393,-79.44821679440606) " y="46.69502" x="51.47344"/>
-    </g>
-   </g>
-  </g>
- </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="494px" height="455px"
+	 viewBox="0 0 494 455" enable-background="new 0 0 494 455" xml:space="preserve">
+<title>logo</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="gitlab_logo" transform="translate(-359.000000, -360.000000)" sketch:type="MSLayerGroup">
+		
+			<g id="g10" transform="translate(999.999975, 587.666648) scale(1, -1) translate(-999.999975, -587.666648) translate(0.000000, 0.999996)">
+			<g id="g16">
+				<g id="g18-Clipped">
+					<g id="path22">
+					</g>
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="359.61" y="-813.507" width="492.509" height="453.68">
+							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="359.61" y="-813.507" width="492.509" height="453.68" id="mask-2">
+						<g filter="url(#Adobe_OpacityMaskFilter)">
+							<path id="path-1" fill="#FFFFFF" d="M0,1173.333h2000V0H0V1173.333L0,1173.333z"/>
+						</g>
+					</mask>
+					<g id="g18" mask="url(#mask-2)">
+						<g transform="translate(358.666658, 358.666658)">
+							<g id="g44" transform="translate(0.532000, 0.774933)">
+								<path id="path46" sketch:type="MSShapeGroup" fill="#FC6D26" d="M492,194.667l-27.559,84.815l-54.617,168.097
+									c-2.809,8.648-15.045,8.648-17.856,0l-54.619-168.097H155.983l-54.62,168.097c-2.809,8.648-15.045,8.648-17.856,0
+									L28.889,279.481L1.332,194.667c-2.515-7.736,0.24-16.211,6.82-20.992L246.665,0.385L485.18,173.675
+									C491.76,178.456,494.513,186.931,492,194.667"/>
+							</g>
+							<g id="g48" transform="translate(155.197863, 1.160267)">
+								<path id="path50" sketch:type="MSShapeGroup" fill="#6F6F6F" d="M92,0L92,0l90.684,279.096H1.316L92,0L92,0z"/>
+							</g>
+							<g id="g52" transform="translate(247.197860, 1.160267)">
+								<g id="path54">
+								</g>
+							</g>
+							<g id="g56" transform="translate(28.531199, 1.160800)">
+								<path id="path58" sketch:type="MSShapeGroup" fill="#858585" d="M218.667,0l-90.684,279.095H0.891L218.667,0L218.667,0z"/>
+							</g>
+							<g id="g60" transform="translate(247.197860, 1.160800)">
+								<g id="path62">
+								</g>
+							</g>
+							<g id="g64" transform="translate(0.088533, 0.255867)">
+								<path id="path66" sketch:type="MSShapeGroup" fill="#979797" d="M29.333,280L29.333,280L1.775,195.185
+									c-2.513-7.736,0.24-16.211,6.821-20.991L247.109,0.905L29.333,280L29.333,280z"/>
+							</g>
+							<g id="g68" transform="translate(247.197860, 1.160267)">
+								<g id="path70">
+								</g>
+							</g>
+							<g id="g72" transform="translate(29.421866, 280.255593)">
+								<path id="path74" sketch:type="MSShapeGroup" fill="#6F6F6F" d="M0,0h127.092L72.473,168.097
+									c-2.811,8.649-15.047,8.649-17.856,0L0,0L0,0z"/>
+							</g>
+							<g id="g76" transform="translate(247.197860, 1.160800)">
+								<path id="path78" sketch:type="MSShapeGroup" fill="#858585" d="M0,0l90.684,279.095h127.092L0,0L0,0z"/>
+							</g>
+							<g id="g80" transform="translate(246.307061, 0.255867)">
+								<path id="path82" sketch:type="MSShapeGroup" fill="#979797" d="M218.667,280L218.667,280l27.559-84.815
+									c2.513-7.736-0.24-16.211-6.821-20.991L0.891,0.905L218.667,280L218.667,280z"/>
+							</g>
+							<g id="g84" transform="translate(336.973725, 280.255593)">
+								<path id="path86" sketch:type="MSShapeGroup" fill="#6F6F6F" d="M128,0H0.908l54.619,168.097
+									c2.811,8.649,15.047,8.649,17.856,0L128,0L128,0z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>

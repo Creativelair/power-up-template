@@ -1,29 +1,24 @@
 {
-  "name": "Static Template",
+  "name": "GitLab",
   "description": "",
-  "details": "A static sample Power-Up hosted on GitHub pages. Feel free to fork [this repository](https://github.com/trello/power-up-template) as a starting point for your own Power-Up.",
+  "details": "Power-Up for GitLab integration.",
   "icon": {
     "url": "./images/logo.png"
   },
-  "author": "Trello Inc",
+  "author": "Daniel Jiménez",
   "capabilities": [
-    "attachment-sections",
-    "attachment-thumbnail",
     "board-buttons",
     "callback",
     "card-badges",
     "card-buttons",
     "card-detail-badges",
-    "card-from-url",
-    "format-url",
-    "show-settings"
+    "show-settings",
+    "authorization-status",
+    "show-authorization"
   ],
   "connectors": {
     "iframe": {
       "url": "./index.html"
     }
-  },
-  "recommend": {
-    "urls": []
   }
 }
